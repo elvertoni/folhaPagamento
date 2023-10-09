@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\folha_pagamento\\FolhaPagamentoApi\\FolhaPagamentoApi.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\prova\\folhaPagamento\\FolhaPagamentoApi\\FolhaPagamentoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\folha_pagamento\\FolhaPagamentoApi\\FolhaPagamentoApi.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\prova\\folhaPagamento\\FolhaPagamentoApi\\FolhaPagamentoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\folha_pagamento\\FolhaPagamentoApi\\FolhaPagamentoApi.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\prova\\folhaPagamento\\FolhaPagamentoApi\\FolhaPagamentoApi.csproj",
         "projectName": "FolhaPagamentoApi",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\folha_pagamento\\FolhaPagamentoApi\\FolhaPagamentoApi.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\prova\\folhaPagamento\\FolhaPagamentoApi\\FolhaPagamentoApi.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\folha_pagamento\\FolhaPagamentoApi\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\prova\\folhaPagamento\\FolhaPagamentoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
