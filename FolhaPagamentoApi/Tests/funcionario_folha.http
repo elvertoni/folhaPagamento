@@ -7,8 +7,8 @@ POST {{base_url}}/funcionario/cadastrar
 Content-Type: application/json
 
 {
-    "nome": "Tonhao",
-    "cpf" : "6969"
+    "nome": "Armando Pinto",
+    "cpf" : "4545454"
 }
 
 ### Obtenção de todos os funcionários
